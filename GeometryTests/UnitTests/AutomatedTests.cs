@@ -1,9 +1,9 @@
 ﻿using System.Collections;
 using System.Reflection;
 using System.Runtime.CompilerServices;
+using UnitsNet;
 using VividOrange.Geometry;
 using VividOrange.Geometry.Serialization.Extensions;
-using UnitsNet;
 
 namespace GeometryTests.UnitTests
 {

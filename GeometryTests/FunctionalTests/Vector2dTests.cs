@@ -1,5 +1,5 @@
-﻿using VividOrange.Geometry;
-using UnitsNet;
+﻿using UnitsNet;
+using VividOrange.Geometry;
 
 namespace GeometryTests.FunctionalTests
 {

@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Numerics;
-using VividOrange.Geometry.Extensions;
 using UnitsNet;
 using UnitsNet.Units;
+using VividOrange.Geometry.Extensions;
 
 namespace VividOrange.Geometry
 {

@@ -1,8 +1,8 @@
 using GeometryTests.Utility;
-using VividOrange.Geometry;
-using VividOrange.Geometry.Serialization.Extensions;
 using UnitsNet;
 using UnitsNet.Units;
+using VividOrange.Geometry;
+using VividOrange.Geometry.Serialization.Extensions;
 
 namespace GeometryTests.UnitTests
 {

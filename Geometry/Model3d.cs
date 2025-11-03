@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using VividOrange.Geometry.Extensions;
 using UnitsNet;
+using VividOrange.Geometry.Extensions;
 
 namespace VividOrange.Geometry
 {
