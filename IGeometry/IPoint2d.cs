@@ -1,6 +1,6 @@
 ﻿using UnitsNet;
 
-namespace MagmaWorks.Geometry
+namespace VividOrange.Geometry
 {
     public interface IPoint2d : ICartesian2d<Length, Length> { }
 }

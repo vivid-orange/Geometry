@@ -1,5 +1,5 @@
 ﻿using GeometryTests.Utility;
-using MagmaWorks.Geometry;
+using VividOrange.Geometry;
 using UnitsNet;
 using UnitsNet.Units;
 

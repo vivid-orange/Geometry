@@ -1,7 +1,7 @@
 ﻿using System;
 using UnitsNet.Units;
 
-namespace MagmaWorks.Geometry
+namespace VividOrange.Geometry
 {
     public class LocalCoordinateSystem : ILocalCoordinateSystem
     {

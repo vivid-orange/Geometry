@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Numerics;
 using UnitsNet;
 
-namespace MagmaWorks.Geometry
+namespace VividOrange.Geometry
 {
     public class Mesh : IMesh
     {

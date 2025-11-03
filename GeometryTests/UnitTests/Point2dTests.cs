@@ -1,6 +1,6 @@
 ﻿using GeometryTests.Utility;
-using MagmaWorks.Geometry;
-using MagmaWorks.Geometry.Serialization.Extensions;
+using VividOrange.Geometry;
+using VividOrange.Geometry.Serialization.Extensions;
 using UnitsNet;
 using UnitsNet.Units;
 

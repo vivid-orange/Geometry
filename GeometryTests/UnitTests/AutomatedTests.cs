@@ -1,8 +1,8 @@
 ﻿using System.Collections;
 using System.Reflection;
 using System.Runtime.CompilerServices;
-using MagmaWorks.Geometry;
-using MagmaWorks.Geometry.Serialization.Extensions;
+using VividOrange.Geometry;
+using VividOrange.Geometry.Serialization.Extensions;
 using UnitsNet;
 
 namespace GeometryTests.UnitTests
@@ -82,7 +82,7 @@ namespace GeometryTests.UnitTests
                         continue;
                     }
 
-                    if (type.Namespace.StartsWith("MagmaWorks.Geometry")
+                    if (type.Namespace.StartsWith("VividOrange.Geometry")
                       && type.BaseType.Name != "Enum"
                       && !_excludedTypes.Contains(type)
                       && type.Attributes.HasFlag(TypeAttributes.Public)

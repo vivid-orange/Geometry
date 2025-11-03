@@ -1,6 +1,6 @@
 ﻿using UnitsNet;
 
-namespace MagmaWorks.Geometry
+namespace VividOrange.Geometry
 {
     public interface IFace : ICartesianFace<IVertex, ICoordinate, Length, Length, Length> { }
 }

@@ -1,4 +1,4 @@
-﻿namespace MagmaWorks.Geometry
+﻿namespace VividOrange.Geometry
 {
     public class IntersectionResult : IIntersectionResult
     {

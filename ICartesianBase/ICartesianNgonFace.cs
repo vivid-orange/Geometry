@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnitsNet;
 
-namespace MagmaWorks.Geometry
+namespace VividOrange.Geometry
 {
     public interface ICartesianNgonFace<TVertex, TCoordinate, Tx, Ty, Tz> : ICartesianFace<TVertex, TCoordinate, Tx, Ty, Tz>
         where TVertex : ICartesianVertex<TCoordinate, Tx, Ty, Tz>

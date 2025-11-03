@@ -1,4 +1,4 @@
-﻿namespace MagmaWorks.Geometry
+﻿namespace VividOrange.Geometry
 {
     public interface IPolylineBase<D, T> where D : IExtrema<T>
     {

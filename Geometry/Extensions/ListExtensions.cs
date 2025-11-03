@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace MagmaWorks.Geometry.Extensions
+namespace VividOrange.Geometry.Extensions
 {
     public static class ListExtension
     {

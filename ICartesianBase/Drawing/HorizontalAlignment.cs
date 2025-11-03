@@ -1,4 +1,4 @@
-﻿namespace MagmaWorks.Geometry
+﻿namespace VividOrange.Geometry
 {
     public enum HorizontalAlignment
     {

@@ -1,4 +1,4 @@
-using MagmaWorks.Geometry.Extensions;
+using VividOrange.Geometry.Extensions;
 
 namespace GeometryTests.UnitTests
 {

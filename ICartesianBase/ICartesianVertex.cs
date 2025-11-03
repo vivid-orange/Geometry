@@ -1,6 +1,6 @@
 ﻿using UnitsNet;
 
-namespace MagmaWorks.Geometry
+namespace VividOrange.Geometry
 {
     public interface ICartesianVertex<TCoordinate, Tx, Ty, Tz> : ICartesian3d<Tx, Ty, Tz>
         where TCoordinate : ICoordinate
