@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagmaWorks.IGeometry", "IGeometry\MagmaWorks.IGeometry.csproj", "{995BF6DC-3E3E-4165-8EF2-83360537FF1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VividOrange.IGeometry", "IGeometry\VividOrange.IGeometry.csproj", "{995BF6DC-3E3E-4165-8EF2-83360537FF1F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagmaWorks.Geometry", "Geometry\MagmaWorks.Geometry.csproj", "{53294695-E114-4DA9-9F1A-F8E2C289DB60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VividOrange.Geometry", "Geometry\VividOrange.Geometry.csproj", "{53294695-E114-4DA9-9F1A-F8E2C289DB60}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagmaWorks.Geometry.Serialization", "Serialization\MagmaWorks.Geometry.Serialization.csproj", "{1E0D2D34-40B9-48C4-9A43-D8C078B2BCE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VividOrange.Geometry.Serialization", "Serialization\VividOrange.Geometry.Serialization.csproj", "{1E0D2D34-40B9-48C4-9A43-D8C078B2BCE4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometryTests", "GeometryTests\GeometryTests.csproj", "{86D261B4-B15C-4F44-B655-CE127B7CC3C0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagmaWorks.ICartesianBase", "ICartesianBase\MagmaWorks.ICartesianBase.csproj", "{0701777F-6600-4D95-B7D5-3BC323AB1FD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VividOrange.ICartesianBase", "ICartesianBase\VividOrange.ICartesianBase.csproj", "{0701777F-6600-4D95-B7D5-3BC323AB1FD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

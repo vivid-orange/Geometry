@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace MagmaWorks.Geometry.Serialization
+namespace VividOrange.Geometry.Serialization
 {
     public static class GeometryJsonSerializer
     {

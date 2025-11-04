@@ -1,7 +1,7 @@
 ﻿using GeometryTests.Utility;
-using MagmaWorks.Geometry;
 using UnitsNet;
 using UnitsNet.Units;
+using VividOrange.Geometry;
 
 namespace GeometryTests.FunctionalTests
 {

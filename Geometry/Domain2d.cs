@@ -1,4 +1,4 @@
-﻿namespace MagmaWorks.Geometry
+﻿namespace VividOrange.Geometry
 {
     public class Domain2d : ADomain<IPoint2d>, IDomain2d
     {

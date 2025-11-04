@@ -7,18 +7,18 @@
 
   <PropertyGroup>
     <TargetFrameworks>net48;netstandard2.0;net6.0;net7.0;net8.0</TargetFrameworks>
-    <LangVersion>8.0</LangVersion>
+	  <LangVersion>8.0</LangVersion>
     <Platforms>AnyCPU</Platforms>
-    <RootNamespace>MagmaWorks.Geometry.Serialization</RootNamespace>
+    <RootNamespace>VividOrange.Geometry</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup>
-    <Title>MagmaWorks Geometry Serialization</Title>
+    <Title>Vivid Orange Geometry</Title>
     <Company>Whitby Wood</Company>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/MagmaWorks/Geometry/Serialization/</RepositoryUrl>
-    <PackageIcon>MagmaWorks.png</PackageIcon>
+    <RepositoryUrl>https://github.com/VividOrange/Geometry/Geometry/</RepositoryUrl>
+    <PackageIcon>VividOrange.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
@@ -26,12 +26,17 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="UnitsNet.Serialization.JsonNet" Version="5.50.0" />
+    <PackageReference Include="System.Numerics.Vectors" Version="4.6.1" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\IGeometry\VividOrange.IGeometry.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IGeometry\MagmaWorks.IGeometry.csproj" />
-    <ProjectReference Include="..\Geometry\MagmaWorks.Geometry.csproj" />
+    <AssemblyAttribute Include="System.Runtime.CompilerServices.InternalsVisibleTo">
+      <_Parameter1>GeometryTests</_Parameter1>
+    </AssemblyAttribute>
   </ItemGroup>
 
   <ItemGroup>
@@ -51,7 +56,7 @@
       <Pack>True</Pack>
       <PackagePath>\Licenses\</PackagePath>
     </None>
-    <None Include="..\MagmaWorks.png">
+    <None Include="..\VividOrange.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>

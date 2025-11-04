@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnitsNet;
 
-namespace MagmaWorks.Geometry.Extensions
+namespace VividOrange.Geometry.Extensions
 {
     internal static class LengthEquatable
     {

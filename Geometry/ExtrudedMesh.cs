@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace MagmaWorks.Geometry
+namespace VividOrange.Geometry
 {
     public class ExtrudedMesh : IExtrudedMesh
     {

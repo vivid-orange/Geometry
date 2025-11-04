@@ -1,6 +1,6 @@
 ﻿using UnitsNet;
 
-namespace MagmaWorks.Geometry
+namespace VividOrange.Geometry
 {
     public class QuadFace : IQuadFace, IFace
     {

@@ -9,16 +9,16 @@
 	<TargetFrameworks>net48;netstandard2.0;net6.0;net7.0;net8.0</TargetFrameworks>
 	  <LangVersion>8.0</LangVersion>
     <Platforms>AnyCPU</Platforms>
-    <RootNamespace>MagmaWorks.Geometry</RootNamespace>
+    <RootNamespace>VividOrange.Geometry</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup>
-    <Title>MagmaWorks Geometry Interfaces</Title>
+    <Title>Vivid Orange Geometry Interfaces</Title>
     <Company>Whitby Wood</Company>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/MagmaWorks/Geometry/IGeometry/</RepositoryUrl>
-    <PackageIcon>MagmaWorks.png</PackageIcon>
+    <RepositoryUrl>https://github.com/VividOrange/Geometry/IGeometry/</RepositoryUrl>
+    <PackageIcon>VividOrange.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
@@ -45,14 +45,14 @@
       <Pack>True</Pack>
       <PackagePath>\Licenses\</PackagePath>
     </None>
-    <None Include="..\MagmaWorks.png">
+    <None Include="..\VividOrange.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ICartesianBase\MagmaWorks.ICartesianBase.csproj" />
+    <ProjectReference Include="..\ICartesianBase\VividOrange.ICartesianBase.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,6 +1,6 @@
 using System;
 
-namespace MagmaWorks.Geometry
+namespace VividOrange.Geometry
 {
     public class Color : IColor
     {

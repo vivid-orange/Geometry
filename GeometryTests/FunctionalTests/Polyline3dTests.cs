@@ -1,5 +1,5 @@
-﻿using MagmaWorks.Geometry;
-using UnitsNet.Units;
+﻿using UnitsNet.Units;
+using VividOrange.Geometry;
 
 namespace GeometryTests.FunctionalTests
 {

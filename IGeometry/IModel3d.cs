@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnitsNet;
 
-namespace MagmaWorks.Geometry
+namespace VividOrange.Geometry
 {
     public interface IModel3d : ICartesianModel3d<IMesh, IVertex, IFace, ICoordinate,
         IText3d, IPoint3d, IVector3d, Length, Length, Length, Length>

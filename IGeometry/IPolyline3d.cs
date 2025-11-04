@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace MagmaWorks.Geometry
+namespace VividOrange.Geometry
 {
     public interface IPolyline3d : IGeometryBase, IPolylineBase<IDomain, IPoint3d>
     {

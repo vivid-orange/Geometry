@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using MagmaWorks.Geometry.Extensions;
 using UnitsNet;
 using UnitsNet.Units;
+using VividOrange.Geometry.Extensions;
 
-namespace MagmaWorks.Geometry
+namespace VividOrange.Geometry
 {
     public class Polyline2d : IPolyline2d
     {

@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Numerics;
-using MagmaWorks.Geometry.Extensions;
 using UnitsNet;
 using UnitsNet.Units;
+using VividOrange.Geometry.Extensions;
 
-namespace MagmaWorks.Geometry
+namespace VividOrange.Geometry
 {
     public class Point3d : IPoint3d, IEquatable<IPoint3d>
     {

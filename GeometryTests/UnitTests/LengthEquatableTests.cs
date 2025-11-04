@@ -1,6 +1,6 @@
-using MagmaWorks.Geometry.Extensions;
 using UnitsNet;
 using UnitsNet.Units;
+using VividOrange.Geometry.Extensions;
 
 namespace GeometryTests.UnitTests
 {

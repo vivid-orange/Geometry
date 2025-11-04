@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnitsNet;
 
-namespace MagmaWorks.Geometry
+namespace VividOrange.Geometry
 {
     public interface ICartesianMesh<TVertex, TFace, TCoordinate, Tx, Ty, Tz> : IGeometryBase
         where TVertex : ICartesianVertex<TCoordinate, Tx, Ty, Tz>

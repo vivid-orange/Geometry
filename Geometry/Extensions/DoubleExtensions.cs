@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MagmaWorks.Geometry.Extensions
+namespace VividOrange.Geometry.Extensions
 {
     public static class DoubleExtensions
     {

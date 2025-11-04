@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnitsNet;
 
-namespace MagmaWorks.Geometry
+namespace VividOrange.Geometry
 {
     public interface IPolyline2d : IGeometryBase, IPolylineBase<IDomain2d, IPoint2d>
     {

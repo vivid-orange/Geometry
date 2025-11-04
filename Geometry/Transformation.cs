@@ -2,7 +2,7 @@
 using UnitsNet;
 using UnitsNet.Units;
 
-namespace MagmaWorks.Geometry
+namespace VividOrange.Geometry
 {
     public static class Transformation
     {

@@ -1,6 +1,6 @@
 ﻿using UnitsNet;
 
-namespace MagmaWorks.Geometry
+namespace VividOrange.Geometry
 {
     public interface ICartesian2d<Tu, Tv> : IGeometryBase
         where Tu : IQuantity where Tv : IQuantity
