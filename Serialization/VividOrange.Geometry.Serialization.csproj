@@ -14,7 +14,7 @@
 
   <PropertyGroup>
     <Title>Vivid Orange Geometry Serialization</Title>
-    <Company>Whitby Wood</Company>
+    <Company>Vivid Orange</Company>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Description>A small geometry library to perform basic operations for structural engineering needs.</Description>
