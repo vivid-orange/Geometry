@@ -17,6 +17,7 @@
     <Company>Whitby Wood</Company>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Description>A small geometry library to perform basic operations for structural engineering needs.</Description>
     <RepositoryUrl>https://github.com/VividOrange/Geometry/ICartesianBase</RepositoryUrl>
     <PackageIcon>VividOrange.png</PackageIcon>
   </PropertyGroup>
