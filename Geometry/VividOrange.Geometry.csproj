@@ -18,7 +18,7 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Description>A small geometry library to perform basic operations for structural engineering needs.</Description>
-    <RepositoryUrl>https://github.com/VividOrange/Geometry/Geometry/</RepositoryUrl>
+    <RepositoryUrl>https://github.com/vivid-orange/Geometry/Geometry/</RepositoryUrl>
     <PackageIcon>VividOrange.png</PackageIcon>
   </PropertyGroup>
 
